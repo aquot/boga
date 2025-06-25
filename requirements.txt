@@ -1,0 +1,5 @@
+Flask
+mega.py
+requests
+APScheduler
+werkzeug
